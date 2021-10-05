@@ -1,5 +1,5 @@
 # FO4LooksmenuGerman
-Just a German Translation for FO4 LooksMenu
+Just a German Translation for FO4 LooksMenu 1.6.20
 
 Nothing Special, Nothing Else
 
