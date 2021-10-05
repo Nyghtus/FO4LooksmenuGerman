@@ -1,2 +1,3 @@
 # FO4LooksmenuGerman
-German Translation for FO4 LooksMenu
+Just a German Translation for FO4 LooksMenu
+Nothing Special, Nothing Else
