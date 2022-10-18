@@ -1,6 +1,7 @@
 # FO4LooksmenuGerman
-Just a German Translation for FO4 LooksMenu 1.6.20
+German Translation for FO4 LooksMenu 1.6.20
 
-Nothing Special, Nothing Else
+Nothing special, nothing else
+Just a text file, nothing more, really!
 
 > Delete that god damn Readme.md before use unless you want your data folder to look like a trash can.
